@@ -1,20 +1,18 @@
-# symfony-template
-Implements xxx in symfony
+# beberlei-doctrine-extensions
+Implements BeberleiDoctrineExtensions in symfony
 
-| Branch     | xxx Version | Symfony Version | PHP Version     |
-|------------|-------------|-----------------|-----------------|
-| [5.4.x][1] | `x.x`       | `5.4.x`         | `8.0` or higher |
-| [4.4.x][2] | `x.x`       | `4.4.x`         | `7.4` or higher |
+| Branch   | BeberleiDoctrineExtensions Version | Symfony Version | PHP Version     |
+|----------|------------------------------------|-----------------|-----------------|
+| [1.x][1] | `1.x`                              | `4.4.x`         | `7.4` or higher |
 
 
-Read [xxx Docs](xxx)
+Read [BeberleiDoctrineExtensions Docs](https://github.com/beberlei/DoctrineExtensions)
 
 ### Resources  
-- [xxx](xxx)
+- [How to Register custom DQL Functions](https://symfony.com/doc/current/doctrine/custom_dql_functions.html)
 
 
 ### License
-The code is licensed under the [MIT License](https://github.com/habibun/symfony-template/blob/master/LICENSE)
+The code is licensed under the [MIT License](https://github.com/habibun/beberlei-doctrine-extensions/blob/master/LICENSE)
 
-[1]: https://github.com/habibun/symfony-template/tree/5.4.x
-[2]: https://github.com/habibun/symfony-template/tree/4.4.x
+[1]: https://github.com/habibun/beberlei-doctrine-extensions/tree/1.x
